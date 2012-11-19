@@ -55,3 +55,5 @@ c:\users\taha\documents\visual studio 2010\Projects\eManager\eManager.Web\bin\Mo
 c:\users\taha\documents\visual studio 2010\Projects\eManager\eManager.Web\obj\Debug\ResolveAssemblyReference.cache
 c:\users\taha\documents\visual studio 2010\Projects\eManager\eManager.Web\obj\Debug\eManager.Web.dll
 c:\users\taha\documents\visual studio 2010\Projects\eManager\eManager.Web\obj\Debug\eManager.Web.pdb
+c:\users\taha\documents\visual studio 2010\Projects\eManager\eManager.Web\bin\eManager.Domains.dll
+c:\users\taha\documents\visual studio 2010\Projects\eManager\eManager.Web\bin\eManager.Domains.pdb
