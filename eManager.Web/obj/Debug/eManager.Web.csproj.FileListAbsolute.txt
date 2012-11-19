@@ -57,3 +57,10 @@ c:\users\taha\documents\visual studio 2010\Projects\eManager\eManager.Web\obj\De
 c:\users\taha\documents\visual studio 2010\Projects\eManager\eManager.Web\obj\Debug\eManager.Web.pdb
 c:\users\taha\documents\visual studio 2010\Projects\eManager\eManager.Web\bin\eManager.Domains.dll
 c:\users\taha\documents\visual studio 2010\Projects\eManager\eManager.Web\bin\eManager.Domains.pdb
+c:\users\taha\documents\visual studio 2010\Projects\eManager\eManager.Web\bin\Microsoft.Practices.ServiceLocation.dll
+c:\users\taha\documents\visual studio 2010\Projects\eManager\eManager.Web\bin\StructureMap.dll
+c:\users\taha\documents\visual studio 2010\Projects\eManager\eManager.Web\bin\WebActivator.dll
+c:\users\taha\documents\visual studio 2010\Projects\eManager\eManager.Web\bin\Microsoft.Practices.ServiceLocation.pdb
+c:\users\taha\documents\visual studio 2010\Projects\eManager\eManager.Web\bin\Microsoft.Practices.ServiceLocation.xml
+c:\users\taha\documents\visual studio 2010\Projects\eManager\eManager.Web\bin\StructureMap.pdb
+c:\users\taha\documents\visual studio 2010\Projects\eManager\eManager.Web\bin\StructureMap.xml
