@@ -1,0 +1,5 @@
+c:\users\taha\documents\visual studio 2010\Projects\eManager\eManager.Domains\bin\Debug\eManager.Domains.dll
+c:\users\taha\documents\visual studio 2010\Projects\eManager\eManager.Domains\bin\Debug\eManager.Domains.pdb
+c:\users\taha\documents\visual studio 2010\Projects\eManager\eManager.Domains\obj\Debug\ResolveAssemblyReference.cache
+c:\users\taha\documents\visual studio 2010\Projects\eManager\eManager.Domains\obj\Debug\eManager.Domains.dll
+c:\users\taha\documents\visual studio 2010\Projects\eManager\eManager.Domains\obj\Debug\eManager.Domains.pdb

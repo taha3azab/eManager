@@ -1,7 +1,19 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "eManager.Domains", "eManager.Domains\eManager.Domains.csproj", "{ECDC9830-96A7-49C6-80BC-19F3A3E1617A}"
+EndProject
 Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ECDC9830-96A7-49C6-80BC-19F3A3E1617A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECDC9830-96A7-49C6-80BC-19F3A3E1617A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECDC9830-96A7-49C6-80BC-19F3A3E1617A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECDC9830-96A7-49C6-80BC-19F3A3E1617A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
