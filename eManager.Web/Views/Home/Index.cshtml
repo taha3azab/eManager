@@ -10,7 +10,7 @@
     @foreach (var department in Model)
     {
         <li>
-            @department.Name
+            @Html.ActionLink(department.Name, "detail", "department", new { department.Id }, null)
         </li>
     }
 </ul>
