@@ -64,3 +64,15 @@ c:\users\taha\documents\visual studio 2010\Projects\eManager\eManager.Web\bin\Mi
 c:\users\taha\documents\visual studio 2010\Projects\eManager\eManager.Web\bin\Microsoft.Practices.ServiceLocation.xml
 c:\users\taha\documents\visual studio 2010\Projects\eManager\eManager.Web\bin\StructureMap.pdb
 c:\users\taha\documents\visual studio 2010\Projects\eManager\eManager.Web\bin\StructureMap.xml
+C:\Users\Taha\Documents\Visual Studio 2010\Projects\eManager\eManager.Web\bin\BundleTransformer.CoffeeScript.dll
+C:\Users\Taha\Documents\Visual Studio 2010\Projects\eManager\eManager.Web\bin\BundleTransformer.Core.dll
+C:\Users\Taha\Documents\Visual Studio 2010\Projects\eManager\eManager.Web\bin\CoffeeBundler.dll
+C:\Users\Taha\Documents\Visual Studio 2010\Projects\eManager\eManager.Web\bin\CoffeeScriptHttpHandler.dll
+C:\Users\Taha\Documents\Visual Studio 2010\Projects\eManager\eManager.Web\bin\CoffeeSharp.dll
+C:\Users\Taha\Documents\Visual Studio 2010\Projects\eManager\eManager.Web\bin\Jurassic.dll
+C:\Users\Taha\Documents\Visual Studio 2010\Projects\eManager\eManager.Web\bin\MsieJavaScriptEngine.dll
+C:\Users\Taha\Documents\Visual Studio 2010\Projects\eManager\eManager.Web\bin\Web.Optimization.Bundles.CoffeeScript.dll
+C:\Users\Taha\Documents\Visual Studio 2010\Projects\eManager\eManager.Web\bin\Web.Optimization.dll
+C:\Users\Taha\Documents\Visual Studio 2010\Projects\eManager\eManager.Web\bin\CoffeeBundler.pdb
+C:\Users\Taha\Documents\Visual Studio 2010\Projects\eManager\eManager.Web\bin\ru-ru\BundleTransformer.Core.resources.dll
+C:\Users\Taha\Documents\Visual Studio 2010\Projects\eManager\eManager.Web\bin\ru-ru\MsieJavaScriptEngine.resources.dll

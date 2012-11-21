@@ -1,5 +1,6 @@
 ﻿using System.Web;
 using System.Web.Optimization;
+using CoffeeSharp;
 
 namespace eManager.Web
 {
@@ -38,6 +39,15 @@ namespace eManager.Web
                         "~/Content/themes/base/jquery.ui.datepicker.css",
                         "~/Content/themes/base/jquery.ui.progressbar.css",
                         "~/Content/themes/base/jquery.ui.theme.css"));
+
+
+            var animalsBundle = new ScriptBundle("~/bundles/animals")
+                .Include("~/Scripts/animals.coffee");
+            animalsBundle.Transforms.Insert(0, new CoffeeBundler.CoffeeBundler());
+            bundles.Add(animalsBundle);
+
+            BundleTable.EnableOptimizations = true;
+            
         }
     }
 }
